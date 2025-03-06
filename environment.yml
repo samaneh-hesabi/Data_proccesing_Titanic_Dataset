@@ -1,0 +1,8 @@
+name: project4
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python
+  - jupyterlab
+prefix: /home/samaneh/miniconda3/envs/project4
